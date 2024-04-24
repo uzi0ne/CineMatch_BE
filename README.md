@@ -18,7 +18,6 @@ BE: 권지윤, 박찬진, 한주호
 + 제목에 Task ID 포함. ex) [TC-1]메인페이지 구현
 + pull request 후 **Merge는 SM만 진행!!**
 
-## Git Commit Rules
 ```
 [Task ID]: [subject]
 
@@ -26,8 +25,8 @@ BE: 권지윤, 박찬진, 한주호
 
 ```
 
-[subject] : commit의 제목
+[subject] : 풀 리퀘스트 제목
 
-[body] : commit의 내용
+[body] : 내용
   
 + 제목은 간략하게 간추리기
