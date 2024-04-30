@@ -1,3 +1,4 @@
+//db: h2사용
 INSERT INTO movies (movie_id, title, genres)
 SELECT * FROM CSVREAD('classpath:data/movies.csv');
 /*
